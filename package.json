@@ -1,0 +1,36 @@
+{
+  "name": "ARB_CHT_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for arab chat جي بي تي",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatGPT",
+    "chatGPT",
+    "chatgpt",
+    "chat",
+    "GPT",
+    "Chat",
+    "bot",
+    "تشات",
+    "جي بي تي",
+    "بوت",
+    "جي",
+    "شات",
+    "تشاتgpt",
+    "شاتgpt",
+    "Telegram bot"
+  ],
+  "author": "Mohamed Swisi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.2.1"
+  }
+}

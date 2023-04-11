@@ -1,0 +1,9 @@
+/node_modules
+ 
+.env
+ 
+npm_modules
+
+package-lock.json
+
+
